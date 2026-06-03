@@ -97,13 +97,7 @@ This project analyzes over 10,000 retail sales records to identify revenue trend
 * Dataset.xlsx
 * Dashboard Screenshots
 
-## Author
 
-Shivashalini T
-
-Aspiring Data Analyst & Data Scientist
-
-Skills: SQL | Excel | Power BI | Python | Machine Learning
 
 
 Shivashalini T
